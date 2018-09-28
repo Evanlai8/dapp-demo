@@ -1,6 +1,6 @@
 {
 	"name": "ebookcoin-dapps-sdk",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "The Ebookcoin decentralized application (DApp) sdk",
 	"repository": "git@github.com:Ebookcoin/ebookcoin-dapps-sdk",
 	"main": "index.js",
